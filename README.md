@@ -1,0 +1,3 @@
+Python Image to GIF Converter
+About
+This Python program allows you to easily convert a collection of images into an animated GIF. Using the imageio library, the script reads the provided image files, combines them in sequence, and generates an animated GIF. The GIF will have a customizable frame duration, with the default set to 500 milliseconds between frames. The resulting GIF will loop infinitely, making it ideal for creating animations, slideshows, or other visual effects from a series of still images. This tool is simple to use, requiring just the image filenames to create the desired output.
